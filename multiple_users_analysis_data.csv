@@ -1,7 +1,71 @@
-Username,mean per day,mean per month,mean per week,mean per year,median per day,median per week,median per year
-SayidatiHathor,33.333333333333336,100.0,100.0,100.0,20.0,100.0,100.0
-JOD45,33.333333333333336,100.0,100.0,100.0,36.0,100.0,100.0
-BoseAlby,100.0,100.0,100.0,100.0,100.0,100.0,100.0
-immaculatenabu,19.8,99.0,99.0,99.0,21.0,99.0,99.0
-beng_walker,100.0,100.0,100.0,100.0,100.0,100.0,100.0
-ErdmuteD,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+,id,username,displayed_name,created_at,description,followers_count,followings_count,mean per day,mean per month,mean per week,mean per year,median per day,median per month,median per week,median per year
+0,9731332,scarletto,scarletto,2007-10-27 10:00:23+00:00,"Love animals, all kinds, Springsteen and Dylan fanatic, hate all injustices really.",3046,1823,20.0,100.0,100.0,100.0,22.0,100.0,100.0,100.0
+1,501139438,Iceman_cometh1,The Night King 🇬🇧🇪🇺 #JohnsonOut,2012-02-23 20:52:02+00:00,"Proud European. Socialist. Tell me, how #Brexit has improved YOUR life? #BrexitCONsequences - we told you so!",3889,4991,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+2,824412404473851904,Mal_A_Clypse,Malaclypse,2017-01-26 00:23:28+00:00,Mostly harmless,1164,712,33.333333333333336,100.0,100.0,100.0,23.0,100.0,100.0,100.0
+3,1334168772609855488,triomeow,"Cali, Rabbit, Hachi😸",2020-12-02 16:13:28+00:00,,3170,352,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+4,34982054,reminola,Remi Ibinola RIO,2009-04-24 17:22:51+00:00,"Storyteller. Filmmaker. -
+The Distance Between, Theo's Dora, The Intervention, Dear Mummy B, Unfinished Business, Purgatory, Man Up, Evil Deeds, Kayanmata....",7321,931,20.0,100.0,100.0,100.0,18.0,100.0,100.0,100.0
+5,332872124,catethetwaate,kathleen stonehouse,2011-07-10 15:37:33+00:00,"bolshi wallflower,political cynic,tennis fan and mother of 2.also proud geordie.",2963,2526,33.333333333333336,100.0,100.0,100.0,32.0,100.0,100.0,100.0
+6,489267036,meekeebare,Meek E. Ebare,2012-02-11 10:46:17+00:00,Evangelist | Preacher of GIVING |  Author | Entrepreneur |Tel/ WhatsApp: +2349090652668 | Telegram@: https://t.co/gqoQkaDV2O (For daily devotional prayer. 6-7am),6716,7080,8.333333333333334,50.0,50.0,100.0,8.0,50.0,50.0,100.0
+7,4798547435,lordofintent,💙 🟨🟥 🐰🐇🐰🐇 Physics doesn't stop for politics,2016-01-13 23:09:28+00:00,"Unite Member, Ex-Labour
+#ClimateEmergency is Real...
+¡¡¡...Zero by 2030...!!! 🐇🐇🐇🐇🐇
+Bunny Hugger 🐰🐰🐰🐰🐰🐰🐰",4402,4994,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+8,2969801825,Hottest_BabesRT,Hottest Babes,2015-01-09 14:46:19+00:00,Posting/RT pics of the hottest babes.,24755,17155,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+9,109375565,BadLibrarian,"John Wright 🐌 🇺🇦 old, crumbly, and slippy",2010-01-28 21:17:37+00:00,John Wright - actual librarian Opinions way more nuanced IRL ⚽️🔴⚪️ 🚴‍♂️🏏 London➡️Kent&Sussex⬅️➡️Ontario➡️Alberta. RTs FYI only,1662,4994,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+10,1329399268113694721,geeadee,❖ GeeADee 🇵🇭 TB⁵-⁰¹⁷ ❖,2020-11-19 12:21:14+00:00,"I am a Pro-Goverment 👊
+I stan SB19 Mahalima 🌽🥖🍓🍢🐔
+the reason why I'm on twitter 🙂",1058,1204,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+11,373727950,LORIANNFITZGERA,CatholicDaughterW/Truth,2011-09-15 03:09:35+00:00,"FreelanceArtist specializing inPortraits I do not work4money I work4GOD onTWITTER 2help correct error in the #CatholicChurch thru #Truth ""nuthin but theBlues""",1153,2197,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+12,1306072873585569792,sickles_charlie,Charlie Sickles ⚔️,2020-09-16 03:31:23+00:00,"Christian ~Pro ~Israel 🇳🇮-💍 veteranUSAF🇺🇸 -🚫DM - #MAGA #Texas - NRA-missionary Philippines, Mozambique, Honduras Trump-RT not endorsement-Prolife",28414,8788,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+13,613527532,Ayibatonye0,Ayibatonye Ikemike,2012-06-20 15:29:04+00:00,"Junior backend-Developer.  Arsenal❤♥♦. Resume:
+https://t.co/OPjqhvIyQ1
+open to jobs",8072,4793,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+14,703255412217409538,NoxDawn,Nox Dawn 🐸,2016-02-26 16:28:50+00:00,"Kdramas, MCU, webcomics, kpop & politics
+
+#BlackLivesMatter #FreePalestine 🇵🇸 #LGBTQ+ 🏳️‍🌈  #WeAreFUE 🌊",1875,1353,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+15,1224292215649984512,DMan1504,Dan-📚Bookseller/BookBlogger📚,2020-02-03 11:23:11+00:00,"📚Waterstones Bookseller(Bristol, Cribbs Causeway)and Bookblogger📚 👑 HWA Crown judge 👑  📨DM for proof/ARC requests 📨 📣✨Book Cheerleader ✨📣",8836,5088,20.0,100.0,100.0,100.0,19.0,100.0,100.0,100.0
+16,168492394,TEJHF,TEJHF forevereuropean #FBPA #rejoin,2010-07-19 13:45:08+00:00,"Tweets from a reluctant activist since 24/6/16 couple of kids, semi, liberal luvvie etc.",2541,4888,3.8461538461538463,50.0,25.0,100.0,1.0,50.0,20.0,100.0
+17,1364028850359959553,minkahunter,a cruel angel's feetpix,2021-02-23 01:46:51+00:00,we eat so many almonds I got cyanide poisoning,2368,462,33.333333333333336,100.0,100.0,100.0,20.0,100.0,100.0,100.0
+18,858206210,DorothyBruce14,Dorothy Bruce,2012-10-02 15:07:18+00:00,"Writes, misses travelling and winter sun, enjoys life. Finds politics fascinating and endlessly frustrating.",3651,3233,25.0,100.0,100.0,100.0,21.5,100.0,100.0,100.0
+19,389516094,mconway70,Michelle 💚 💙 😷 #JoinAUnion #BigPowerOff,2011-10-12 15:15:50+00:00,Passionate socialist & not afraid to say it #SaveOurNHS #WeAreCorbyn #Justice4Grenfell #CorbynProject #BlackLivesMatter #FreePalestine #OrdinaryLeft,11989,13188,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+20,911717239350538240,DarkVelBet,🦇 DarkVelBet ♮ 🏴‍☠️ ♉︎ 🔩 🌈 🏳️‍🌈,2017-09-23 22:21:43+00:00,"Thank you for the Pain, it made me Raise my Game...Stay Real, Stay Loyal or stay away from me. | Stray Kids | KINGDOM | ONEUS | E'LAST | ATEEZ | 日本語/ENG OK!",1286,1399,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+21,1277653859301801984,Patrici89225734,Baroness Patricia of Plague Island #JohnsonOut,2020-06-29 17:23:37+00:00,#ScrapNHSBILL#SaveOurNHS ULTRA REMAINER Always proud to be Woke! Hate anything to do with BREXIT! Will always be European!#GetJohnsonDone #StandwithUkraine,10896,8551,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+22,1332850201,michaelguddah,tranquilo😮,2013-04-07 01:06:23+00:00,,1781,1054,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+23,3373014305,yoonohpeach_,𝐵𝑒𝑙𝑙𝑒¡ 🌸,2015-07-12 22:33:30+00:00,"— 🦋 It was hard to get through the days without you, I'm so happy to have you here, keep smiling so i'll keep living 🦋
+𝚖𝚢 𝚜𝚘𝚞𝚕 ⇝ @colorzdyoung",1042,1362,33.0,99.0,99.0,99.0,35.0,99.0,99.0,99.0
+24,1421214554,TareinB,🐻Adorable Teddy🐻™,2013-05-11 17:40:29+00:00,"Aye, but you have heard of me | | Ezekiel 25:17",28286,17222,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+25,4111299611,muzikvibe,muzikvibe,2015-11-04 10:28:24+00:00,,1585,845,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+26,1509943331719200768,Cathyinvestment,Cathy M Largent,2022-04-01 17:18:47+00:00,Stay at home and make money online through bitcon mining investment.Receive 200 WORTH OF BITCOIN into your bitcoin wallet every 24hrs.,1258,19,10.0,50.0,50.0,100.0,8.0,50.0,50.0,100.0
+27,40311716,giselleaguiar,Giselle Aguiar ✝️🇺🇸🌵🛐🙏🏼📖😇🎙📝🔥🇮🇱,2009-05-15 19:22:44+00:00,Our confident #Hope is through #JesusChrist Alone! #SeekTheTruth #GospelTruth #SeekJesus #salvation https://t.co/Ozrfi7G966 | owner @azsocialnetwiz,2297,1653,9.090909090909092,50.0,50.0,100.0,10.0,50.0,50.0,100.0
+28,2969801825,Hottest_BabesRT,Hottest Babes,2015-01-09 14:46:19+00:00,Posting/RT pics of the hottest babes.,24757,17152,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+29,32929694,caroleevans,ageismcarole evans,2009-04-18 16:20:13+00:00,"love life,  my daughter, my grandchildren,my dogs, my cat, I love being retired with time to garden,read books, listen to music, love Jazz,classical music,",1133,1098,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+30,2917954106,drumhellor,DarthMallard🦆❗️,2014-12-03 20:57:43+00:00,"If you can not bend Heaven, then you must move Hell...",2370,2061,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+31,47975126,TheMendozaWoman,Kerry-Anne Mendoza 🏳️‍🌈,2009-06-17 14:22:02+00:00,Author of ”Austerity” | Autistic | You can find me on YouTube now https://t.co/RH1jJBLlJj,57931,2551,5.823529411764706,49.5,33.0,99.0,4.0,49.5,35.0,99.0
+32,1246899189142913025,Chris_Strvvt,Strvvt,2020-04-05 20:35:31+00:00,BOUT THE HUSSLE & GOD💸!!,4465,2616,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+33,1061774344987336704,CanadaVacancies,Vacancies in Canada,2018-11-12 00:15:05+00:00,Would you like to reach the most talented individuals in #Canada for FREE? ViC is one of the best NICHE #job sites in #Canada!,5588,5621,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+34,3334614563,cmwheatley56,Chris Wheatley🔸️🇪🇺🇺🇳 🇬🇧,2015-06-19 11:48:27+00:00,,2948,1431,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+35,1183206990941605889,pokirifan0,pokiri,2019-10-13 02:25:49+00:00,,3072,2665,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+36,1434190942429278209,ohsungjn,putri🌟,2021-09-04 16:26:06+00:00,—☆ mostly #𝐓𝐍𝐗 #𝐓𝐇𝐄𝐁𝐎𝐘𝐙 #𝐌𝐈𝐑𝐀𝐄 #𝐃𝐑𝐈𝐏𝐏𝐈𝐍 #𝐆𝐇𝐎𝐒𝐓𝟗 #𝐓𝐎𝟏 #𝐘𝐎𝐔𝐍𝐈𝐓𝐄 #𝐁𝐋𝐀𝐍𝐊𝟐𝐘,1147,1387,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+37,1180038815315968001,kingdom_kaitai,キングダム解体新書,2019-10-04 08:36:00+00:00,キングダムの名言・名勝負・名場面・ランキングをつぶやいています。,1039,3375,4.545454545454546,50.0,25.0,100.0,5.0,50.0,32.0,100.0
+38,196507248,penttivuorinen,Pentti Vuorinen,2010-09-29 08:11:55+00:00,"Curious about everything, anything Left for us. Traditional avant-garde, contemporary existence in cinema, music, art, innovation, philosophy, sociology...",1236,3057,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+39,720684341647577088,gd12knw,Lets Go Brandon 🏴‍☠️,2016-04-14 18:45:11+00:00,"Wife, mother, & proud American that loves 1A & 2A, and will defend until the bitter end! ARTICLE 5 is America’s last hope! #armedinfidel #LETSGOBRANDON",1916,2975,33.333333333333336,100.0,100.0,100.0,35.0,100.0,100.0,100.0
+40,1338392900091211776,clouddberry,Tori ♡'s riwoong,2020-12-14 07:58:33+00:00,"#환웅 & #리한 ; she thinking about us 24/7 💓
+           @koostarsky 토끼      CY&YH
+     carrd byf⁷⁸ 🫂",3179,3145,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+41,1573472503,VeBo1991,VeBee🇺🇸✝️,2013-07-06 19:05:13+00:00,God .Country. Family. 🇺🇸 Pro-life 👣 🚫DM ❤️My hubby,53862,21808,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+42,1263771476102168576,hemant_1110_,✋ Hemant,2020-05-22 10:00:00+00:00,"INC .. supporter... Bhakt please stay away.
+ Indian.. I support of Rahul ji.
+#DaroMat",3024,4919,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+43,202061206,jymbudd,Jim Budd #FBPE #NHSLove,2010-10-13 06:27:29+00:00,"Drinks journalist, Loire fanatic, exposing dodgy wine investment + other wine scams, cycling, #European, #Rejoin, #winelover(mk 1) #BrexitKillsOurNHS",12334,10729,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+44,223833696,StelucBrooks,Steluc Brooks 🏴󠁧󠁢󠁷󠁬󠁳󠁿#FBPE 🇪🇺🌹,2010-12-07 13:10:45+00:00,Card carrying champagne socialist. Who would have thought it would end up like this?🤬😷,4057,4386,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+45,299808547,FredPecora,fred pecora,2011-05-16 18:19:15+00:00,Just because you're paranoid doesn't mean they're not after you.,1510,4976,33.333333333333336,100.0,100.0,100.0,35.0,100.0,100.0,100.0
+46,411419084,rahul05ranjan,Rahul,2011-11-13 11:40:23+00:00,"I am PHP/NodeJs developer!!
+My bot do like and retweet of #programming #php #laravel 
+#javascript
+
+Telegram https://t.co/TwRzaz",2814,403,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+47,1139064451,lloydsceatspage,Lloyd Sceats-Page,2013-02-01 08:14:56+00:00,with Lloyd.,6688,2180,1.0869565217391304,25.0,7.142857142857143,100.0,0.0,27.0,5.5,100.0
+48,152407861,FredMadagascar,Simon Hartley #Socialist Always #UBI Now,2010-06-05 22:05:06+00:00,Ex primary teacher. Humanist. Atheist. Sports fan. Socialist. Dad. Proud Boltonian (live in London). Ex Labour member. JC supporter.,3236,5002,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+49,567911598,grandmaj2,Grandmaj JoeBidenNotMyPresident,2012-05-01 03:57:07+00:00,"Mother, Grandmother, Nam Veteran Widow.   #MAGA. former City Administrator, Funeral Home director and Office Manager, now retired.",2422,1743,50.0,100.0,100.0,100.0,50.0,100.0,100.0,100.0
+50,795762945741455360,kingdom_tkmem,مملكة المتكممين ✪,2016-11-07 23:00:45+00:00,#مملكة_المتكممين حساب يهتم بالمتكممين ماقبل وبعد عملية التكميم ( توعية - نصائح - إستشارات وتجارب المتكممين ) الحساب بإدارة ( خالد ),6013,548,16.666666666666668,100.0,100.0,100.0,15.5,100.0,100.0,100.0
