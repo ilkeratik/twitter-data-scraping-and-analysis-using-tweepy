@@ -89,7 +89,7 @@ def save_user_analysis_data_to_csv(user, tweets, verbose=False):
     all_df = pd.concat([df_details, df_analysis], axis=1)
     if verbose:
         print(all_df)
-    save_df_to_csv(all_df, filename='user_analysis_data.csv', index=False)
+    save_df_to_csv(all_df, filename='./csv/user_analysis_data.csv', index=False)
 
 def save_multiple_users_analysis_data_to_csv(users_tweets, users_names, users_details, verbose=False):
 
@@ -106,13 +106,13 @@ def save_multiple_users_analysis_data_to_csv(users_tweets, users_names, users_de
     all_df = pd.concat([df_details, all_analysis_df], axis=1)
     if verbose:
         print(all_df)
-    save_df_to_csv(all_df, filename='multiple_users_analysis_data.csv')
+    save_df_to_csv(all_df, filename='../csv/multiple_users_analysis_data.csv')
             
 def plot_hist(df):
     df.hist()
     plt.show()
 
-def save_df_to_csv(df, filename='Result.csv', index=True):
+def save_df_to_csv(df, filename='./csv/Result.csv', index=True):
     df.to_csv(filename, index=index)
 
 if __name__ == '__main__':

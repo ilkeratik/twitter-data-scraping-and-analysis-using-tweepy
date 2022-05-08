@@ -22,7 +22,8 @@ def get_user_tweets(idd, verbose=False, count=100):
     """
     Parameters:
     idd: twitter id
-    returns tweets of user with given id
+    returns 
+    tweets of user with given id
     """
     #tweets = client.get_users_tweets(id, user_auth=True, max_results=50)
     tweets = api.user_timeline(user_id=idd,trim_user=True, count=count)
