@@ -76,33 +76,36 @@ def calculate_mean_and_median(tweets, name="user", verbose=False):
                 mean per month: {mean_per_month}, median per month: {median_per_month}\n \
                 mean per year: {mean_per_year}, median per year: {median_per_year}\n \
             ')
-    return {name:{'mean per day': mean_per_day, 'median per day': median_per_day, \
+    return {'mean per day': mean_per_day, 'median per day': median_per_day, \
             'mean per week': mean_per_week, 'median per week': median_per_week, \
             'mean per month': mean_per_month, 'median per month': median_per_month, \
-            'mean per year': mean_per_year, 'median per year': median_per_year}}
+            'mean per year': mean_per_year, 'median per year': median_per_year}
     
-def save_user_analysis_data_to_csv(tweets, name):
+def save_user_analysis_data_to_csv(user, tweets, verbose=False):
     res = calculate_mean_and_median(tweets)
-    df = pd.DataFrame(res).T
-    df.index.name = 'Username'
-    print(df)
-    save_df_to_csv(df, filename='user_analysis_data.csv')
+    df_analysis = pd.DataFrame([res])
+    df_details = pd.DataFrame([user])
+    print(df_analysis)
+    all_df = pd.concat([df_details, df_analysis], axis=1)
+    if verbose:
+        print(all_df)
+    save_df_to_csv(all_df, filename='user_analysis_data.csv', index=False)
 
-def save_multiple_users_analysis_data_to_csv(users_tweets, users_names, users_details):
+def save_multiple_users_analysis_data_to_csv(users_tweets, users_names, users_details, verbose=False):
 
     for _i, user_tweets in enumerate(users_tweets):
         if _i == 0:
             res = calculate_mean_and_median(user_tweets, name=users_names[_i])
             all_analysis_df = pd.DataFrame(res).T
         else:
-            print('ger')
             res = calculate_mean_and_median(user_tweets, name=users_names[_i])
             df = pd.DataFrame(res).T
             all_analysis_df = all_analysis_df.append(df, ignore_index=True)
     
     df_details = pd.DataFrame(users_details)
     all_df = pd.concat([df_details, all_analysis_df], axis=1)
-    print(all_df)
+    if verbose:
+        print(all_df)
     save_df_to_csv(all_df, filename='multiple_users_analysis_data.csv')
             
 def plot_hist(df):
@@ -113,16 +116,9 @@ def save_df_to_csv(df, filename='Result.csv', index=True):
     df.to_csv(filename, index=index)
 
 if __name__ == '__main__':
-    ## single user
-    # user = get_user_details("175n07453cr37")
-    # idd = user["id"]
-    # tweets = get_user_tweets(idd)
-    # save_user_analysis_data_to_csv(tweets, name= user['username'])
-    ## or multiple users
-    users = get_users(query="Kingdom", no_of_users=50)
-    print(users)
-    users_details = [get_user_details(username) for username in users]
-    users_ids = [user['id'] for user in users_details]
-    users_tweets = [get_user_tweets(user_id) for user_id in users_ids]
-    save_multiple_users_analysis_data_to_csv(users_tweets, users, users_details)
+    # single user
+    user = get_user_details("175n07453cr37")
+    idd = user["id"]
+    tweets = get_user_tweets(idd)
+    save_user_analysis_data_to_csv(user, tweets)    
 

@@ -1,2 +1,3 @@
-Username,mean per day,mean per month,mean per week,mean per year,median per day,median per week,median per year
-user,0.2604166666666667,7.6923076923076925,1.8018018018018018,66.66666666666667,0.0,5.0,32.0
+id,username,displayed_name,created_at,description,followers_count,followings_count,mean per day,median per day,mean per week,median per week,mean per month,median per month,mean per year,median per year
+1022548532602044416,175n07453cr37,ilker,2018-07-26 18:25:42+00:00,"I'm planning on it,
+planning on that too",26,97,0.15847860538827258,0.0,1.098901098901099,1.0,4.761904761904762,3.0,33.333333333333336,32.0
